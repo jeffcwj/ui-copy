@@ -1,0 +1,3 @@
+interface:
+  display_name: "界面文案与实现克制"
+  short_description: "用户看得懂的界面文案，不过度防御的代码"
